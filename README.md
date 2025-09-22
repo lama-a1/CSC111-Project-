@@ -1,1 +1,4 @@
-# CSC111-Project-
+# CSC111-Project
+# JAVA Hotel Booking
+## Project Description
+JAVA Hotel is a booking managment designed to simplify hotel room reservations by providing an efficient and user friendly system where customers can select and book rooms based on their preferences. The program offers various room options, including a Room with City View, Suite Room, Room with Breakfast, and Standard Room, catering to different accommodation needs. It efficiently manages room availability, room popularity, and booking processes such as cancellations. Additionally, the system provides numerous features, including insights on the most popular room, room prices, profit, and booking information, either for all rooms or for a specific room. The program features a Main Menu with options to access the Manager Menu, Customer Menu, or exit the program. Both the Manager and Customer Menus offer tools for managing bookings and retrieving detailed information.
